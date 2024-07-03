@@ -1,3 +1,4 @@
+/* Ajusta el tamaño de las imagenes del carousel */
 .carousel-inner .carousel-item img{
     width: 100%;
     margin: 0 auto;
@@ -8,6 +9,7 @@
     color: #fff;
 }
 
+/* Permite crear la sección azul con el icono para las cards de 'Quienes somos' */
 .rectangulo-titulo {
     background-color: #17bfdddd;
     color: #fff;
@@ -46,18 +48,21 @@ form {
     padding-right: 100px;
 }
 
+/* Tamaño fijo del textarea para enviar comentarios en "Contacto" */
 .tamaño-textarea {
     width: 300px;
     height: 150px;
     resize: none;
 }
 
+/* Color y tamaño del footer */
 footer {
     background-color: #17bfdddd;
     padding-top: 20px;
     padding-bottom: 10px;
 }
 
+/* Tamaño de los iconos del footer */
 .icon-container {
     display: inline;
     justify-content: center;
@@ -65,10 +70,12 @@ footer {
     color: #fff
 }
 
+/* Tamaño de los iconos del footer */
 .icon-container i {
     font-size: 2rem;
 }
 
+/* Tamaño de los iconos del footer */
 .card-img-top {
     object-fit: cover;
     height: 250px;
